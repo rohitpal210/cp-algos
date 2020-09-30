@@ -82,9 +82,6 @@ int32_t main()
 {
     
 	fast	
-	cout << fixed << setprecision(12);
-	
-
 	
 
 
