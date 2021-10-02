@@ -6,8 +6,6 @@
 // Time Limit : 1000 ms
 // Powered by CP Editor (https://github.com/cpeditor/cpeditor)
 
-// 私に忍び寄るのをやめてください、ありがとう
-
 #include<bits/stdc++.h>
 using namespace std;
 #pragma comment(linker, "/stack:200000000")
