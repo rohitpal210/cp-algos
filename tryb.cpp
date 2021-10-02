@@ -33,7 +33,6 @@ using namespace std;
 #define inf 9e18
 #define cases ll T;cin>>T;while(T--)
 #define BLOCK 500
-//const double PI = 3.141592653589793238460;
 template<typename T> bool mmax(T &m, const T q) { if (m < q) {m = q; return true;} else return false; }
 template<typename T> bool mmin(T &m, const T q) { if (m > q) {m = q; return true;} else return false; }
 typedef std::complex<double> Complex;
